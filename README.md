@@ -22,6 +22,7 @@ Focado em achar soluções utilizando programação e metodologias ágeis.
 <br/> Sou um Back-end Developer :computer:
  <br/>💬  &nbsp; Sobre mim:
  Acredito que a tecnologia deve cumprir a necessidade de cada negócio e facilitar a vida das pessoas.
+ <br/> Curto tecnologias que parecem impossíveis, games e séries
 
  :rocket:  &nbsp; Estou trabalhando na **Mobly**
  <br/> :pencil: &nbsp; Buscando colaborar com projetos ágeis usando PHP e Node.js
