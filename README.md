@@ -30,6 +30,6 @@ Focado em achar soluções utilizando programação e metodologias ágeis.
  <br/> :computer: &nbsp; Minha stack: PHP, Laravel, Node.js & Typescript
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-SamuelMagno-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-ribeiro-tavares-farias-magno-664763140/)](https://www.linkedin.com/in/samuel-ribeiro-tavares-farias-magno-664763140/) 
+[![Linkedin Badge](https://img.shields.io/badge/-SamuelMagno-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelmagno/)](https://www.linkedin.com/in/samuelmagno/) 
  <br/>
  [![Gmail Badge](https://img.shields.io/badge/-samuelrtfmagno@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:samuelrtfmagno@gmail.com)](mailto:samuelrtfmagno@gmail.com)
