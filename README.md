@@ -26,7 +26,7 @@ Focado em achar soluções utilizando programação e metodologias ágeis.
 
  :rocket:  &nbsp; Estou trabalhando na **Picpay**
  <br/> :pencil: &nbsp; Buscando colaborar com projetos ágeis usando PHP e Node.js
- <br/> :books: &nbsp; Aprendendo: Design Patterns
+ <!--<br/> :books: &nbsp; Aprendendo: Design Patterns -->
  <br/> :computer: &nbsp; Minha stack: PHP, Laravel, Node.js & Typescript
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
