@@ -26,7 +26,7 @@ Focado em achar soluções utilizando programação e metodologias ágeis.
 
  :rocket:  &nbsp; Estou trabalhando na **Picpay**
  <br/> :pencil: &nbsp; Buscando colaborar com projetos ágeis usando PHP e Node.js<!--<br/> :books: &nbsp; Aprendendo: Design Patterns -->
- <br/> :computer: &nbsp; Minha stack: PHP, Laravel, Node.js & Typescript
+ <br/> :computer: &nbsp; Minha stack: PHP, Java & Node.js
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-SamuelMagno-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelmagno/)](https://www.linkedin.com/in/samuelmagno/) 
