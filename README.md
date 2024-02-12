@@ -24,9 +24,9 @@ Focado em achar soluções utilizando programação e metodologias ágeis.
  Acredito que a tecnologia deve cumprir a necessidade de cada negócio e facilitar a vida das pessoas.
  <br/> Curto tecnologias que parecem impossíveis, games e séries
 
- :rocket:  &nbsp; Estou trabalhando na **Picpay**
- <br/> :pencil: &nbsp; Buscando colaborar com projetos ágeis usando PHP e Node.js<!--<br/> :books: &nbsp; Aprendendo: Design Patterns -->
- <br/> :computer: &nbsp; Minha stack: PHP, Java & Node.js
+ :rocket:  &nbsp; Estou trabalhando no **Mercado Livre**
+ <br/> :pencil: &nbsp; Buscando colaborar com projetos ágeis usando Go e Java<!--<br/> :books: &nbsp; Aprendendo: Design Patterns -->
+ <br/> :computer: &nbsp; Minha stack: Go, Java, PHP e Node.js
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-SamuelMagno-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelmagno/)](https://www.linkedin.com/in/samuelmagno/) 
