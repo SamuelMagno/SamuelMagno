@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ## Olá pessoal 👋
 Focado em achar soluções utilizando programação e metodologias ágeis.
 <br/> Sou um Back-end Developer :computer:
- <br/>💬  &nbsp; Sobre mim:
+<!-- <br/>💬  &nbsp; Sobre mim:
  Acredito que a tecnologia deve cumprir a necessidade de cada negócio e facilitar a vida das pessoas.
-
+-->
  :rocket:  &nbsp; Estou trabalhando no **Mercado Livre**
  <br/> :pencil: &nbsp; Buscando colaborar com projetos ágeis usando Go e Java<!--<br/> :books: &nbsp; Aprendendo: Design Patterns -->
  <br/> :computer: &nbsp; Minha stack: Go, Java, PHP e Node.js
